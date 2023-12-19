@@ -37,4 +37,4 @@
 </div>
 
 #### Dataanalysis
-I developed this portfolio using Python
+I developed Projects using Python ,R Programming and Machine Learning
