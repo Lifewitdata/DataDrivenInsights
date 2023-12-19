@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Isfaque Ansari and I'm Data Analyst, from ....</p>
+<p align="left">My name is Isfaque Ansari and I'm Data Analyst,</p>
 
 ###
 
