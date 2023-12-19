@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/Python-original.svg" height="40" alt="python logo"  />
+  <img src="https://www.google.com/search?q=python&sca_esv=592086901&rlz=1C1RXQR_en-GBIN1070IN1070&sxsrf=AM9HkKmPtGFsZUyuU45oK9vapmMmeDboHA:1702963321969&tbm=isch&source=iu&ictx=1&vet=1&fir=hs-cfTjLDWwuFM%252C3wRBXLyvECcz0M%252C%252Fm%252F05z1_%253B6gL-m2EeEpxmGM%252CFvb7Gz_c4rwxjM%252C_%253B4ZNsqXEECsj39M%252C5jfQJfg5JhrpMM%252C_%253Bk6ZGA6noS202IM%252CZIk6oEy_LSc-sM%252C_%253BROU_VImkeciK3M%252CjMOmS9NnvnJGnM%252C_&usg=AI4_-kRxk-SsyqJLA0EEMJwLqxS-cF1eyA&sa=X&sqi=2&ved=2ahUKEwjj7Pve4JqDAxXfb2wGHRpoAK4Q_B16BAhREAE#imgrc=hs-cfTjLDWwuFM" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/R Programming-original.svg" height="40" alt="R logo"  />
   <img width="12" />
