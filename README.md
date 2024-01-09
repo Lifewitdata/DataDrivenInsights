@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Isfaque Ansari and I'm Data Analyst,</p>
+<p align="left">My name is Isfaque Ansari and I'm Data AnalystI'm a data enthusiast who thrives on solving problems and uncovering insights through data. I'm fluent in a diverse toolkit of languages and technologies, including R, Python, SQL, and machine learning algorithms.,</p>
 
 ###
 
